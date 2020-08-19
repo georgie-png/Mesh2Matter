@@ -1,10 +1,11 @@
 
 # Mesh 2 Matter
 
-![alt text](https://github.com/georgie-png/t/blob/master/blenderflow/GenRenImages/00002.jpg)
+![alt text](https://github.com/georgie-png/Mesh2Matter/blob/master/blenderflow/GenRenImages/00022.jpg)
 
 ## An exploration generative texturing using a Pix2Pix model!!!
 
+Video example : https://youtu.be/IQ3YRHw_D6M
 
 ### The project folder is split into three parts:
 
