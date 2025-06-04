@@ -1,7 +1,7 @@
 
 # Mesh 2 Matter
 
-![alt text](https://github.com/georgie-png/Mesh2Matter/blob/master/blenderflow/GenRenImages/00022.jpg)
+![a 3d rendered and ML generated rock sits clistening in the dark](https://github.com/georgie-png/Mesh2Matter/blob/master/blenderflow/GenRenImages/00022.jpg)
 
 ## An exploration generative texturing using a Pix2Pix model!!!
 
